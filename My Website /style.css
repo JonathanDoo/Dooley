@@ -1,0 +1,182 @@
+body {
+	font-family: Time News Roman, sans-serif;
+	margin: 0;
+	padding: 0;
+	background-color: #000;
+}
+header {
+	background-color: #E71195;
+	color: #000;
+	text-align: center;
+	padding: 10px;
+}
+nav {
+	background-color: #C41280;
+	text-align: center;
+	padding: 10px;
+
+}
+nav a {
+	color: #000;
+	text-decoration: none;
+	margin: 10px;
+}
+nav a:hover {
+	color: #16FF00;
+	background-color: #000;
+}
+main {
+	padding: 15px;
+}
+footer {
+	background-color: #E71195;
+	color: #000;
+	text-align: center;
+	padding: 10px;	
+	bottom: 0;
+	width: 100%;
+	margin-top: auto;
+
+}
+h2 {
+	color: #16FF00;
+	font-size: 30px;
+}
+p {
+	color: #16FF00;
+	font-size: 20px;
+	font-family: Georgia;
+	margin-bottom: 10px;
+}
+ul {
+	color: #16FF00;
+}
+td {
+	padding-top: 1px;
+}
+.framebox	{
+	font-family: Georgia;
+	width: 700px;
+	padding-bottom: 10px;
+}
+.lenny {
+	text-align: center;
+	max-width: 50%;
+	padding-top: 5px;
+}
+.lenn {
+	text-align: center;
+}
+.Boy, .flick, .home_image{
+	width: 30%;
+	margin: 10px;
+
+}
+.wife {
+	width: 30%;
+	height: 10;
+	margin-top: 20px;
+}
+.btn {
+  display: inline-block;
+  background-color: #333;
+  color: #fff;
+  padding: 0.8rem 2rem;
+  text-decoration: none;
+  border: none;
+  border-radius: 3px;
+  margin-top: 1rem;
+}
+#portfolio {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 1rem;
+}
+.project {
+  background-color: #F0F0F0;
+  padding: 1rem;
+  border-radius: 3px;
+}
+.project h3 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  text-align: center;
+  margin-top: 35px;
+  margin-bottom: 35px;
+}
+.die {
+	text-align: center;
+	max-width: 100%;
+}
+.Desc {
+	text-align: center;
+	color: #000;
+}
+.coding {
+	width: 80%;
+	height: 360px;
+}
+.eng {
+	width: 60%;
+	height: 70%;
+}
+.gf {
+	width: 70%;
+}
+.serv {
+	width: 300px;
+	height: 300px;
+}
+.hydralic {
+	width: 300px;
+	height: 300px;
+}
+.python {
+	width: 300px;
+	height: 300px;
+}
+.the {
+	color: #000;
+}
+.the2 {
+	width: 80%;
+	height: 360px;
+}
+.bye {
+	color: #16FF00;
+}
+.site {
+	margin: 40px;
+	padding: 45px;
+}
+.email, .phonenumber {
+	color: whitesmoke;
+}
+.Boyy, .imagee {
+	padding: 10px;
+	width: 30%;
+	margin-top: 0px;
+}
+.flickk {
+	height: 560px;
+	padding: 10px;
+}
+.home {
+	height: 630px;
+	padding: 10px;
+}
+.home_im {
+	height: 785px;
+	width: 480px;
+	padding: 10px;
+}
+.flic {
+	height: 765px;
+	width: 400px;
+	padding: 10px;
+}
+.flickn {
+	padding: 10px;
+	height: 630px;
+	width: 400px;
+}
